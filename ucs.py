@@ -1,6 +1,7 @@
 import networkx as nx
 import matplotlib.pyplot as plt
 
+
 graph = {
     "A": [["B", 2], ["C", 5], ["I", 1]],
     "B": [["C", 1], ["D", 3]],
