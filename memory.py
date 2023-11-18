@@ -29,4 +29,4 @@ def main():
             white_flash_coordinates = []  # Clear the list
 
 if __name__ == "__main__":
-    main()
+    main()      
